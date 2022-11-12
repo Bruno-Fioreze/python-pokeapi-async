@@ -1,5 +1,3 @@
-
-
 from asyncio import gather, run
 from httpx import AsyncClient
 
